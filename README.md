@@ -14,7 +14,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/>
 <br/>
 🤓 ¿Mi Background? <br/>
-✔ Complete 2,5 años de la carrera Ingenieria Industrial en la UBA(Universidad de Buenos Aires),en el cual aprendi a a resolver problemas de manera eficiente, capacidad crítica y tener un pensamiento analítico. 
+✔ Complete 2 años y medio, de la carrera Ingenieria Industrial en la UBA(Universidad de Buenos Aires),en el cual aprendi a a resolver problemas de manera eficiente, capacidad crítica y tener un pensamiento analítico. 
 <br/><br/>
 ✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
 <br/><br/>
@@ -43,7 +43,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    <img width="70" src="./reactnative.png"/>
    <img width="70" src="./expressjs.png"/>
    <img width="70" src="./redux.png"/>
-   <img width="70" src="./php.png"/>
+
    <img width="70" src="./mysql.png"/>
    <img width="70" src="./html.png"/>
    <img width="70" src="./css.png"/>
