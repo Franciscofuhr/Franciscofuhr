@@ -1,11 +1,11 @@
-<h1 align="center"> Hola 👋🏽, Yo soy Leonel, Bienvenido/a</h1>
+<h1 align="center"> Hola 👋🏽, Yo soy Francisco, Bienvenido/a</h1>
 <img alt="Banner" src="./1654030060949.jpg" width="100%" />
 <h3 align="center">
    Sobre mí
 </h3>
 <p align="left">
 👀 ¿Quién soy? <br/>
-🔹 Desarrollador FullStack con orientación FrontEnd, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
+🔹 Desarrollador FullStack, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
 <br/>
 <br/>
 🤔 ¿Por qué yo? <br/>
@@ -49,7 +49,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    <img width="70" src="./css.png"/>
    <img width="70" src="./postgres.png"/>
    <img width="70" src="./sequelize.png"/>
-   <img width="70" src="./figma.png"/>
+
 </div>
 
 <br/><br/>
