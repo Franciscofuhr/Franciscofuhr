@@ -1,5 +1,5 @@
 <h1 align="center"> Hola 👋🏽, Yo soy Francisco, Bienvenido/a</h1>
-<img alt="Banner" src="./1654030060949.jpg" width="100%" />
+<img alt="Banner" src="./BannerLinkedinFran.png" width="100%" />
 <h3 align="center">
    Sobre mí
 </h3>
