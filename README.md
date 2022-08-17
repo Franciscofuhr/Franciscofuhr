@@ -20,6 +20,20 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/><br/>
 ✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
 <br/>
+ <br/>🖥 Mis Proyectos<br/>
+<br/>
+   Falta Uno!
+<br/>
+   <br/>
+   FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel del administrador.
+   <br/>
+   <br/>
+🖥 <a href="https://falta-uno-henry.vercel.app/">Link al proyecto</a>
+   
+<br/>
+ <br/>
+   <img alt="Falta Uno!" src="./BannerLinkedinFran.png" width="100%" />
+ <br/>
 <br/>
 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
 <br/>
