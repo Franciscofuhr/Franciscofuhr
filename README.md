@@ -31,9 +31,12 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 🖥 <a href="https://falta-uno-henry.vercel.app/">Link al proyecto</a>
    
 <br/>
- <br/>
-   <img alt="Falta Uno!" src="./BannerLinkedinFran.png" width="100%" />
- <br/>
+ <div align="center">
+   <img alt="Falta Uno!" src="./faltaUnoLand.png" width="100%" />
+    <img alt="Falta Uno!" src="./Home.png" width="100%" />
+
+
+ </div >
 <br/>
 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
 <br/>
