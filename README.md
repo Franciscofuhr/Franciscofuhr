@@ -32,8 +32,8 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    
 <br/>
  <div align="center">
-   <img alt="Falta Uno!" src="./faltaUnoLand.png" width="160px" />
-    <img alt="Falta Uno!" src="./Home.png" width="160px" />
+   <img alt="Falta Uno!" src="./faltaUnoLand.png" min-width="160px" />
+    <img alt="Falta Uno!" src="./Home.png" min-width="160px" />
 
 
  </div >
@@ -48,8 +48,8 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    
 <br/>
  <div align="center">
-   <img alt="Falta Uno!" src="./faltaUnoLand.png" width="100%" />
-    <img alt="Falta Uno!" src="./Home.png" width="100%" />
+   <img alt="Falta Uno!" src="./LandingHealth.png" min-width="160px" />
+    <img alt="Falta Uno!" src="./HomeHealth.png" min-width="160px" />
 
 
  </div >
