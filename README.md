@@ -25,7 +25,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    Falta Uno!
 <br/>
    <br/>
-   FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel del administrador.
+   FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los usuarios, y el chat privado.
    <br/>
    <br/>
 🖥 <a href="https://falta-uno-henry.vercel.app/">Link al proyecto</a>
@@ -41,15 +41,19 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    Healthier
 <br/>
    <br/>
-   FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel del administrador.
+   Desarrollo de una aplicación web con la utilización de Express.js, React-Redux, Node.js, postgres, sacando los datos de una API REST.
+   Diseñar y desarrollar una Single-page application en la cual se puedan ver una gran variedad de recetas, la posibilidad de ver mas en detalle la receta para poder hacerla por tu cuenta!. La pagina tambien cuenta con filtrados, ordenamientos, un buscador, y la posibilidad crear una nueva receta.
    <br/>
    <br/>
-🖥 <a href="https://falta-uno-henry.vercel.app/">Link al proyecto</a>
+🖥 <a href="https://github.com/Franciscofuhr/PI-FOODS">Link al repositorio</a>
    
 <br/>
  <div align="center">
    <img alt="Falta Uno!" src="./LandingHealth.png" min-width="160px" />
     <img alt="Falta Uno!" src="./HomeHealth.png" min-width="160px" />
+        <img alt="Falta Uno!" src="./formularioHealth.png" min-width="160px" />
+      <img alt="Falta Uno!" src="./dietas.png" min-width="160px" />
+
 
 
  </div >
