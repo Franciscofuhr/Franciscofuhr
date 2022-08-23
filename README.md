@@ -32,6 +32,22 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    
 <br/>
  <div align="center">
+   <img alt="Falta Uno!" src="./faltaUnoLand.png" width="160px" />
+    <img alt="Falta Uno!" src="./Home.png" width="160px" />
+
+
+ </div >
+ <br/>
+   Healthier
+<br/>
+   <br/>
+   FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel del administrador.
+   <br/>
+   <br/>
+🖥 <a href="https://falta-uno-henry.vercel.app/">Link al proyecto</a>
+   
+<br/>
+ <div align="center">
    <img alt="Falta Uno!" src="./faltaUnoLand.png" width="100%" />
     <img alt="Falta Uno!" src="./Home.png" width="100%" />
 
